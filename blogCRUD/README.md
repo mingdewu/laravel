@@ -1,5 +1,9 @@
+Create
 ![1](https://github.com/mingdewu/laravel/assets/51104897/f7485e65-a07b-4747-b4bb-ebf2491b063d)
-![5](https://github.com/mingdewu/laravel/assets/51104897/907aa3d6-6f33-4851-9e7e-f20272516043)
+Retrieve
+![2](https://github.com/mingdewu/laravel/assets/51104897/2d46d90c-9fd9-4d94-a693-3b216ec32ce9)
+Update
 ![3](https://github.com/mingdewu/laravel/assets/51104897/121f8d3e-5fe2-46dd-990d-5902d96f3008)
+Delete
 ![4](https://github.com/mingdewu/laravel/assets/51104897/3ed41cae-415e-4102-a969-6f71f3189400)
-
+![5](https://github.com/mingdewu/laravel/assets/51104897/907aa3d6-6f33-4851-9e7e-f20272516043)
